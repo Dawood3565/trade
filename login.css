@@ -1,0 +1,46 @@
+.navbar-nav .nav-item .nav-link{
+
+    font-weight: 700;
+    font-size: 17px;
+    color: white;
+    }
+    .button{
+        width: 129px;
+    height: 42px;
+    text-align: center;
+    background: #F49600;
+    border-radius: 8px;
+    margin-left: 1em;
+    }
+
+
+
+    /* footer section start */
+    .footer-section{
+        background-color: #003049;
+        padding: 80px 0 50px 0;
+    }
+    .footer-section .box1{
+        height: 15rem;
+    }
+    .footer-section .base-navigation{
+        height: 15rem;
+    }
+    .base-navigation ul{
+        padding-left: 0rem;
+    }
+    .base-navigation ul li{
+        list-style: none;
+        
+    }
+    .base-navigation ul li a{
+        text-decoration: none;
+        font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 254.52%;
+    letter-spacing: 0.005em;
+    color: #F5F5F5;
+    }
+    /* end */
